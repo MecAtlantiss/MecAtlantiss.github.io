@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/MecAtlantiss/MecAtlantiss.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
+# Links to Macumba's addon pages
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- ['a' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-a.html)
+- ['b' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-b.html)
+- ['c' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-c.html)
+- ['d' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-d.html)
+- ['e' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-e.html)
+- ['f' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-f.html)
+- ['g' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-g.html)
+- ['h' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-h.html)
+- ['i' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-i.html)
+- ['j' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-j.html)
+- ['k' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-k.html)
+- ['l' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-l.html)
+- ['m' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-m.html)
+- ['n' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-n.html)
+- ['o' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-o.html)
+- ['p' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-p.html)
+- ['q' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-q.html)
+- ['r' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-r.html)
+- ['s' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-s.html)
+- ['t' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-t.html)
+- ['u' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-u.html)
+- ['v' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-v.html)
+- ['w' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-w.html)
+- ['x' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-x.html)
+- ['y' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-y.html)
+- ['z' addons](https://macumba.pagesperso-orange.fr/TBC-addons-2.4.3-z.html)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MecAtlantiss/MecAtlantiss.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
